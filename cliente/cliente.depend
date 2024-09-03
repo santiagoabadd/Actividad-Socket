@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725356703 source:c:\users\lgsan\onedrive\documentos\cliente\main.cpp
+	<stdio.h>
+	<windows.h>
+	<winsock.h>
+
